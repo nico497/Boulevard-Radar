@@ -1,0 +1,52 @@
+{
+ "weeks": [
+  {
+   "week": "2026-W43",
+   "date": "2026-10-19T03:02:34+00:00",
+   "sites": {
+    "Boulevard": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 573
+    },
+    "Zenoti": {
+     "new": 2,
+     "updated": 0,
+     "removed": 0,
+     "pages": 575
+    },
+    "Mindbody": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 0
+    },
+    "Vagaro": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 0
+    },
+    "Mangomint": {
+     "new": 6,
+     "updated": 0,
+     "removed": 0,
+     "pages": 839
+    },
+    "Phorest": {
+     "new": 29,
+     "updated": 4,
+     "removed": 0,
+     "pages": 4003
+    },
+    "Fresha": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 3
+    }
+   }
+  }
+ ]
+}

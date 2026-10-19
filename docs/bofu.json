@@ -1,0 +1,1561 @@
+{
+ "meta": {
+  "title": "Bottom-of-funnel content tracker",
+  "niche": "Client-experience and booking software for salons, spas, medspas, and barbershops",
+  "you": "Boulevard",
+  "generated": "2026-10-19T03:11:00+00:00",
+  "state_updated": "2026-10-19T03:02:34+00:00",
+  "repo": "nico497/Boulevard-Radar"
+ },
+ "types": [
+  [
+   "vs_you",
+   "Us vs. them"
+  ],
+  [
+   "alt",
+   "Alternatives"
+  ],
+  [
+   "switch",
+   "Switching and migration"
+  ],
+  [
+   "pricing",
+   "Rival pricing breakdowns"
+  ],
+  [
+   "vs_rivals",
+   "Rival vs. rival"
+  ],
+  [
+   "best",
+   "Best-of and roundups"
+  ],
+  [
+   "case",
+   "Case and customer stories"
+  ]
+ ],
+ "sites": [
+  {
+   "name": "Boulevard",
+   "tracked": 573,
+   "considered": 573,
+   "own_pricing": "https://www.joinblvd.com/pricing",
+   "hubs": [
+    "https://www.joinblvd.com/customer-stories"
+   ]
+  },
+  {
+   "name": "Zenoti",
+   "tracked": 575,
+   "considered": 483,
+   "own_pricing": "https://www.zenoti.com/platform/dynamic-pricing",
+   "hubs": [
+    "https://www.zenoti.com/compare"
+   ]
+  },
+  {
+   "name": "Mindbody",
+   "tracked": 1019,
+   "considered": 0,
+   "own_pricing": null,
+   "hubs": []
+  },
+  {
+   "name": "Vagaro",
+   "tracked": 193,
+   "considered": 0,
+   "own_pricing": null,
+   "hubs": []
+  },
+  {
+   "name": "Mangomint",
+   "tracked": 839,
+   "considered": 838,
+   "own_pricing": "https://www.mangomint.com/pricing/",
+   "hubs": []
+  },
+  {
+   "name": "Phorest",
+   "tracked": 4590,
+   "considered": 4003,
+   "own_pricing": "https://www.phorest.com/pricing/",
+   "hubs": [
+    "https://www.phorest.com/compare/",
+    "https://www.phorest.com/au/compare/",
+    "https://www.phorest.com/us/compare/",
+    "https://www.phorest.com/ca/compare/",
+    "https://www.phorest.com/gb/compare/",
+    "https://www.phorest.com/ae/compare/"
+   ]
+  },
+  {
+   "name": "Fresha",
+   "tracked": 3,
+   "considered": 3,
+   "own_pricing": null,
+   "hubs": []
+  }
+ ],
+ "vendors": [
+  "Zenoti",
+  "Mindbody",
+  "Vagaro",
+  "Mangomint",
+  "Phorest",
+  "Fresha",
+  "Boulevard",
+  "GlossGenius",
+  "Square Appointments",
+  "Booker",
+  "Acuity Scheduling",
+  "Weave",
+  "Treatwell",
+  "SalonBiz",
+  "Rosy",
+  "Goldie",
+  "Timely",
+  "Schedulicity",
+  "Booksy",
+  "DaySmart"
+ ],
+ "excluded": {
+  "webinars, glossary, events and category pages": 93,
+  "templated pages": 1799
+ },
+ "pages": [
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/blog/mindbody-alternatives",
+   "path": "/blog/mindbody-alternatives",
+   "type": "alt",
+   "targets": [
+    "Mindbody"
+   ]
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/amoura-skin-and-body",
+   "path": "/customer-stories/amoura-skin-and-body",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/behind-the-look-adriana-tesler",
+   "path": "/customer-stories/behind-the-look-adriana-tesler",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/boulevards-best-spotlight-envogue-salon",
+   "path": "/customer-stories/boulevards-best-spotlight-envogue-salon",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/boulevards-best-spotlight-proof-aesthetics",
+   "path": "/customer-stories/boulevards-best-spotlight-proof-aesthetics",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/boulevards-best-spotlight-xo-aesthetic-refinery",
+   "path": "/customer-stories/boulevards-best-spotlight-xo-aesthetic-refinery",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/case-study-charles-ifergan-salon",
+   "path": "/customer-stories/case-study-charles-ifergan-salon",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/case-study-cure-studios",
+   "path": "/customer-stories/case-study-cure-studios",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/case-study-face-foundrie",
+   "path": "/customer-stories/case-study-face-foundrie",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/case-study-fellow-barber",
+   "path": "/customer-stories/case-study-fellow-barber",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/case-study-germantown-day-spa",
+   "path": "/customer-stories/case-study-germantown-day-spa",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/case-study-habit",
+   "path": "/customer-stories/case-study-habit",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/case-study-hairroin-salon",
+   "path": "/customer-stories/case-study-hairroin-salon",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/case-study-hello-sugar",
+   "path": "/customer-stories/case-study-hello-sugar",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/case-study-heyday",
+   "path": "/customer-stories/case-study-heyday",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/case-study-hi-skin",
+   "path": "/customer-stories/case-study-hi-skin",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/case-study-jeffrey-lamorte-salons",
+   "path": "/customer-stories/case-study-jeffrey-lamorte-salons",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/case-study-plump",
+   "path": "/customer-stories/case-study-plump",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/case-study-r-h",
+   "path": "/customer-stories/case-study-r-h",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/case-study-rachel-paige",
+   "path": "/customer-stories/case-study-rachel-paige",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/case-study-rudys-barbershop",
+   "path": "/customer-stories/case-study-rudys-barbershop",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/case-study-ruma-aesthetics",
+   "path": "/customer-stories/case-study-ruma-aesthetics",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/case-study-saunders-and-james",
+   "path": "/customer-stories/case-study-saunders-and-james",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/case-study-skin-agency",
+   "path": "/customer-stories/case-study-skin-agency",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/case-study-skin-house-facial-bar",
+   "path": "/customer-stories/case-study-skin-house-facial-bar",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/case-study-skinrn",
+   "path": "/customer-stories/case-study-skinrn",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/case-study-suite-caroline",
+   "path": "/customer-stories/case-study-suite-caroline",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/cutthroat-barbers",
+   "path": "/customer-stories/cutthroat-barbers",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/elite-aesthetics",
+   "path": "/customer-stories/elite-aesthetics",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/face-foundrie",
+   "path": "/customer-stories/face-foundrie",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/freecoat-nails",
+   "path": "/customer-stories/freecoat-nails",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/hairroin-salon",
+   "path": "/customer-stories/hairroin-salon",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/hello-sugar",
+   "path": "/customer-stories/hello-sugar",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/hudson-hawk",
+   "path": "/customer-stories/hudson-hawk",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/iconic-spas",
+   "path": "/customer-stories/iconic-spas",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/jeffrey-lamorte-salons",
+   "path": "/customer-stories/jeffrey-lamorte-salons",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/medical-aesthetics-ma",
+   "path": "/customer-stories/medical-aesthetics-ma",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/nova-arts-salon",
+   "path": "/customer-stories/nova-arts-salon",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/oak-and-steel",
+   "path": "/customer-stories/oak-and-steel",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/rudys-barbershop",
+   "path": "/customer-stories/rudys-barbershop",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/saije-esthetics",
+   "path": "/customer-stories/saije-esthetics",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/saunders-and-james",
+   "path": "/customer-stories/saunders-and-james",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/sit-still-kids",
+   "path": "/customer-stories/sit-still-kids",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/skin-agency",
+   "path": "/customer-stories/skin-agency",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/skin-house-facial-bar",
+   "path": "/customer-stories/skin-house-facial-bar",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/skinrn",
+   "path": "/customer-stories/skinrn",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/spoke-and-weal",
+   "path": "/customer-stories/spoke-and-weal",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/success-story-sauna-house",
+   "path": "/customer-stories/success-story-sauna-house",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/the-gleamery",
+   "path": "/customer-stories/the-gleamery",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/the-loc-god",
+   "path": "/customer-stories/the-loc-god",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/the-treatment-skin-boutique",
+   "path": "/customer-stories/the-treatment-skin-boutique",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/why-great-many-uses-boulevard",
+   "path": "/customer-stories/why-great-many-uses-boulevard",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/willow-and-birch",
+   "path": "/customer-stories/willow-and-birch",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/compare/boulevard-vs-mangomint",
+   "path": "/compare/boulevard-vs-mangomint",
+   "type": "vs_you",
+   "targets": [
+    "Mangomint"
+   ]
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/compare/boulevard-vs-vagaro",
+   "path": "/compare/boulevard-vs-vagaro",
+   "type": "vs_you",
+   "targets": [
+    "Vagaro"
+   ]
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/compare/boulevard-vs-zenoti",
+   "path": "/compare/boulevard-vs-zenoti",
+   "type": "vs_you",
+   "targets": [
+    "Zenoti"
+   ]
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/resources/depasquale-the-spa-case-study",
+   "path": "/resources/depasquale-the-spa-case-study",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/resources/orange-twist-case-study",
+   "path": "/resources/orange-twist-case-study",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/resources/type/case-study",
+   "path": "/resources/type/case-study",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/18-8-fine-mens-salons",
+   "path": "/success-stories/18-8-fine-mens-salons",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/all-dolled-up",
+   "path": "/success-stories/all-dolled-up",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/arco-fit",
+   "path": "/success-stories/arco-fit",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/australian-skin-institute",
+   "path": "/success-stories/australian-skin-institute",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/aveda-covent-garden",
+   "path": "/success-stories/aveda-covent-garden",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/b12-love",
+   "path": "/success-stories/b12-love",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/bee-brazillian",
+   "path": "/success-stories/bee-brazillian",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/berkowits-hair-skin-clinic",
+   "path": "/success-stories/berkowits-hair-skin-clinic",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/bioessence",
+   "path": "/success-stories/bioessence",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/birds-barbershop",
+   "path": "/success-stories/birds-barbershop",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/blushes",
+   "path": "/success-stories/blushes",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/boardroom-salon-for-men-2",
+   "path": "/success-stories/boardroom-salon-for-men-2",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/bodycraft",
+   "path": "/success-stories/bodycraft",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/bodytonic-clinic",
+   "path": "/success-stories/bodytonic-clinic",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/bomshell-brazilian-waxing-beauty-lounge",
+   "path": "/success-stories/bomshell-brazilian-waxing-beauty-lounge",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/bubbles",
+   "path": "/success-stories/bubbles",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/collinge-co",
+   "path": "/success-stories/collinge-co",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/cosmetic-skin-therapies",
+   "path": "/success-stories/cosmetic-skin-therapies",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/dermani-medspa",
+   "path": "/success-stories/dermani-medspa",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/dermatouch-rn",
+   "path": "/success-stories/dermatouch-rn",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/element-iv-therapy",
+   "path": "/success-stories/element-iv-therapy",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/elevate-fitness",
+   "path": "/success-stories/elevate-fitness",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/envi-salon-and-spa",
+   "path": "/success-stories/envi-salon-and-spa",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/epic-hair-designs",
+   "path": "/success-stories/epic-hair-designs",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/european-wax-center-2-3",
+   "path": "/success-stories/european-wax-center-2-3",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/evergreen-beauty-college",
+   "path": "/success-stories/evergreen-beauty-college",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/everlash",
+   "path": "/success-stories/everlash",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/every-skin",
+   "path": "/success-stories/every-skin",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/face-gym",
+   "path": "/success-stories/face-gym",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/fantastic-sams-2",
+   "path": "/success-stories/fantastic-sams-2",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/foxy-box-laser-wax-bar",
+   "path": "/success-stories/foxy-box-laser-wax-bar",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/franklin-health-and-fitness",
+   "path": "/success-stories/franklin-health-and-fitness",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/frenchies-2",
+   "path": "/success-stories/frenchies-2",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/fuzz-wax-bar",
+   "path": "/success-stories/fuzz-wax-bar",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/gene-juarez",
+   "path": "/success-stories/gene-juarez",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/gene-juarez-salons-spas",
+   "path": "/success-stories/gene-juarez-salons-spas",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/harmony-skin-wellness-clinic",
+   "path": "/success-stories/harmony-skin-wellness-clinic",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/icebox-cryotherapy",
+   "path": "/success-stories/icebox-cryotherapy",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/indira-salon-spa",
+   "path": "/success-stories/indira-salon-spa",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/irwan-team",
+   "path": "/success-stories/irwan-team",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/j-sterlings-wellness-spa",
+   "path": "/success-stories/j-sterlings-wellness-spa",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/jean-claude-biguine",
+   "path": "/success-stories/jean-claude-biguine",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/kapils-salon-academy",
+   "path": "/success-stories/kapils-salon-academy",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/kapils-salon-and-academy",
+   "path": "/success-stories/kapils-salon-and-academy",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/katrinas-skin-works",
+   "path": "/success-stories/katrinas-skin-works",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/lashbar-2",
+   "path": "/success-stories/lashbar-2",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/london-grace",
+   "path": "/success-stories/london-grace",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/lookwell-salons",
+   "path": "/success-stories/lookwell-salons",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/massage-heights-2",
+   "path": "/success-stories/massage-heights-2",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/miniluxe-2",
+   "path": "/success-stories/miniluxe-2",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/modern-male-barbershop",
+   "path": "/success-stories/modern-male-barbershop",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/nouriche-wellness-aesthetics",
+   "path": "/success-stories/nouriche-wellness-aesthetics",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/oc-waxing",
+   "path": "/success-stories/oc-waxing",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/ode-spa",
+   "path": "/success-stories/ode-spa",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/oliva-2",
+   "path": "/success-stories/oliva-2",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/options-medical-weightloss",
+   "path": "/success-stories/options-medical-weightloss",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/orange-twist-2",
+   "path": "/success-stories/orange-twist-2",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/profile-by-sanford",
+   "path": "/success-stories/profile-by-sanford",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/pure-spa-beauty-the-nail-and-beauty-zone-ltd",
+   "path": "/success-stories/pure-spa-beauty-the-nail-and-beauty-zone-ltd",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/removery-salon",
+   "path": "/success-stories/removery-salon",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/rodeo",
+   "path": "/success-stories/rodeo",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/ruffians",
+   "path": "/success-stories/ruffians",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/rumors-salon",
+   "path": "/success-stories/rumors-salon",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/sanghavi-brands",
+   "path": "/success-stories/sanghavi-brands",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/sheared-the-barbershop",
+   "path": "/success-stories/sheared-the-barbershop",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/silk-laser",
+   "path": "/success-stories/silk-laser",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/silkor",
+   "path": "/success-stories/silkor",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/sky-salon-3",
+   "path": "/success-stories/sky-salon-3",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/snip-its-2",
+   "path": "/success-stories/snip-its-2",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/soap-treatment-store",
+   "path": "/success-stories/soap-treatment-store",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/sono-bello",
+   "path": "/success-stories/sono-bello",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/spalon-montage",
+   "path": "/success-stories/spalon-montage",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/st-george-med-spa",
+   "path": "/success-stories/st-george-med-spa",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/strom-spa-nordique",
+   "path": "/success-stories/strom-spa-nordique",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/the-brazilian-hot-wax-co",
+   "path": "/success-stories/the-brazilian-hot-wax-co",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/the-massage-company",
+   "path": "/success-stories/the-massage-company",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/the-vanity-bar",
+   "path": "/success-stories/the-vanity-bar",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/toni-guy-bdgt0",
+   "path": "/success-stories/toni-guy-bdgt0",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/tricoci-salon-spa",
+   "path": "/success-stories/tricoci-salon-spa",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/tune-up-the-manly-salon",
+   "path": "/success-stories/tune-up-the-manly-salon",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/universal-athletic-club",
+   "path": "/success-stories/universal-athletic-club",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/van-michael-salons-2",
+   "path": "/success-stories/van-michael-salons-2",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/venere-salon",
+   "path": "/success-stories/venere-salon",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/vurve-signature-salon",
+   "path": "/success-stories/vurve-signature-salon",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/warren-tricomi",
+   "path": "/success-stories/warren-tricomi",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/waxing-the-city",
+   "path": "/success-stories/waxing-the-city",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/success-stories/well-infused-2",
+   "path": "/success-stories/well-infused-2",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/compare/zenoti-vs-boulevard",
+   "path": "/compare/zenoti-vs-boulevard",
+   "type": "vs_you",
+   "targets": [
+    "Boulevard"
+   ]
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/compare/zenoti-vs-mindbody",
+   "path": "/compare/zenoti-vs-mindbody",
+   "type": "vs_you",
+   "targets": [
+    "Mindbody"
+   ]
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/compare/zenoti-vs-salonbiz",
+   "path": "/compare/zenoti-vs-salonbiz",
+   "type": "vs_you",
+   "targets": [
+    "SalonBiz"
+   ]
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/compare/zenoti-vs-vagaro",
+   "path": "/compare/zenoti-vs-vagaro",
+   "type": "vs_you",
+   "targets": [
+    "Vagaro"
+   ]
+  },
+  {
+   "site": "Mangomint",
+   "url": "https://www.mangomint.com/go/switch-from-booker/",
+   "path": "/go/switch-from-booker",
+   "type": "switch",
+   "targets": [
+    "Booker"
+   ]
+  },
+  {
+   "site": "Mangomint",
+   "url": "https://www.mangomint.com/go/switch-from-boulevard/",
+   "path": "/go/switch-from-boulevard",
+   "type": "switch",
+   "targets": [
+    "Boulevard"
+   ]
+  },
+  {
+   "site": "Mangomint",
+   "url": "https://www.mangomint.com/go/switch-from-daysmart/",
+   "path": "/go/switch-from-daysmart",
+   "type": "switch",
+   "targets": [
+    "DaySmart"
+   ]
+  },
+  {
+   "site": "Mangomint",
+   "url": "https://www.mangomint.com/go/switch-from-fresha/",
+   "path": "/go/switch-from-fresha",
+   "type": "switch",
+   "targets": [
+    "Fresha"
+   ]
+  },
+  {
+   "site": "Mangomint",
+   "url": "https://www.mangomint.com/go/switch-from-glossgenius/",
+   "path": "/go/switch-from-glossgenius",
+   "type": "switch",
+   "targets": [
+    "GlossGenius"
+   ]
+  },
+  {
+   "site": "Mangomint",
+   "url": "https://www.mangomint.com/go/switch-from-mindbody/",
+   "path": "/go/switch-from-mindbody",
+   "type": "switch",
+   "targets": [
+    "Mindbody"
+   ]
+  },
+  {
+   "site": "Mangomint",
+   "url": "https://www.mangomint.com/go/switch-from-phorest/",
+   "path": "/go/switch-from-phorest",
+   "type": "switch",
+   "targets": [
+    "Phorest"
+   ]
+  },
+  {
+   "site": "Mangomint",
+   "url": "https://www.mangomint.com/go/switch-from-rosy/",
+   "path": "/go/switch-from-rosy",
+   "type": "switch",
+   "targets": [
+    "Rosy"
+   ]
+  },
+  {
+   "site": "Mangomint",
+   "url": "https://www.mangomint.com/go/switch-from-square/",
+   "path": "/go/switch-from-square",
+   "type": "switch",
+   "targets": [
+    "Square Appointments"
+   ]
+  },
+  {
+   "site": "Mangomint",
+   "url": "https://www.mangomint.com/go/switch-from-vagaro-now/",
+   "path": "/go/switch-from-vagaro-now",
+   "type": "switch",
+   "targets": [
+    "Vagaro"
+   ]
+  },
+  {
+   "site": "Mangomint",
+   "url": "https://www.mangomint.com/go/switch-from-zenoti/",
+   "path": "/go/switch-from-zenoti",
+   "type": "switch",
+   "targets": [
+    "Zenoti"
+   ]
+  },
+  {
+   "site": "Phorest",
+   "url": "https://www.phorest.com/ae/compare/phorest-vs-fresha/",
+   "path": "/ae/compare/phorest-vs-fresha",
+   "type": "vs_you",
+   "targets": [
+    "Fresha"
+   ]
+  },
+  {
+   "site": "Phorest",
+   "url": "https://www.phorest.com/ae/compare/phorest-vs-zenoti/",
+   "path": "/ae/compare/phorest-vs-zenoti",
+   "type": "vs_you",
+   "targets": [
+    "Zenoti"
+   ]
+  },
+  {
+   "site": "Phorest",
+   "url": "https://www.phorest.com/au/compare/phorest-vs-boulevard/",
+   "path": "/au/compare/phorest-vs-boulevard",
+   "type": "vs_you",
+   "targets": [
+    "Boulevard"
+   ]
+  },
+  {
+   "site": "Phorest",
+   "url": "https://www.phorest.com/au/compare/phorest-vs-fresha/",
+   "path": "/au/compare/phorest-vs-fresha",
+   "type": "vs_you",
+   "targets": [
+    "Fresha"
+   ]
+  },
+  {
+   "site": "Phorest",
+   "url": "https://www.phorest.com/au/compare/phorest-vs-mindbody-booker/",
+   "path": "/au/compare/phorest-vs-mindbody-booker",
+   "type": "vs_you",
+   "targets": [
+    "Mindbody",
+    "Booker"
+   ]
+  },
+  {
+   "site": "Phorest",
+   "url": "https://www.phorest.com/au/compare/phorest-vs-timely/",
+   "path": "/au/compare/phorest-vs-timely",
+   "type": "vs_you",
+   "targets": [
+    "Timely"
+   ]
+  },
+  {
+   "site": "Phorest",
+   "url": "https://www.phorest.com/ca/compare/phorest-vs-boulevard/",
+   "path": "/ca/compare/phorest-vs-boulevard",
+   "type": "vs_you",
+   "targets": [
+    "Boulevard"
+   ]
+  },
+  {
+   "site": "Phorest",
+   "url": "https://www.phorest.com/ca/compare/phorest-vs-fresha/",
+   "path": "/ca/compare/phorest-vs-fresha",
+   "type": "vs_you",
+   "targets": [
+    "Fresha"
+   ]
+  },
+  {
+   "site": "Phorest",
+   "url": "https://www.phorest.com/ca/compare/phorest-vs-mangomint/",
+   "path": "/ca/compare/phorest-vs-mangomint",
+   "type": "vs_you",
+   "targets": [
+    "Mangomint"
+   ]
+  },
+  {
+   "site": "Phorest",
+   "url": "https://www.phorest.com/ca/compare/phorest-vs-mindbody-booker/",
+   "path": "/ca/compare/phorest-vs-mindbody-booker",
+   "type": "vs_you",
+   "targets": [
+    "Mindbody",
+    "Booker"
+   ]
+  },
+  {
+   "site": "Phorest",
+   "url": "https://www.phorest.com/ca/compare/phorest-vs-timely/",
+   "path": "/ca/compare/phorest-vs-timely",
+   "type": "vs_you",
+   "targets": [
+    "Timely"
+   ]
+  },
+  {
+   "site": "Phorest",
+   "url": "https://www.phorest.com/compare/phorest-vs-boulevard/",
+   "path": "/compare/phorest-vs-boulevard",
+   "type": "vs_you",
+   "targets": [
+    "Boulevard"
+   ]
+  },
+  {
+   "site": "Phorest",
+   "url": "https://www.phorest.com/compare/phorest-vs-fresha/",
+   "path": "/compare/phorest-vs-fresha",
+   "type": "vs_you",
+   "targets": [
+    "Fresha"
+   ]
+  },
+  {
+   "site": "Phorest",
+   "url": "https://www.phorest.com/compare/phorest-vs-mindbody-booker/",
+   "path": "/compare/phorest-vs-mindbody-booker",
+   "type": "vs_you",
+   "targets": [
+    "Mindbody",
+    "Booker"
+   ]
+  },
+  {
+   "site": "Phorest",
+   "url": "https://www.phorest.com/compare/phorest-vs-salonbiz/",
+   "path": "/compare/phorest-vs-salonbiz",
+   "type": "vs_you",
+   "targets": [
+    "SalonBiz"
+   ]
+  },
+  {
+   "site": "Phorest",
+   "url": "https://www.phorest.com/compare/phorest-vs-timely/",
+   "path": "/compare/phorest-vs-timely",
+   "type": "vs_you",
+   "targets": [
+    "Timely"
+   ]
+  },
+  {
+   "site": "Phorest",
+   "url": "https://www.phorest.com/compare/phorest-vs-zenoti/",
+   "path": "/compare/phorest-vs-zenoti",
+   "type": "vs_you",
+   "targets": [
+    "Zenoti"
+   ]
+  },
+  {
+   "site": "Phorest",
+   "url": "https://www.phorest.com/gb/compare/phorest-vs-boulevard/",
+   "path": "/gb/compare/phorest-vs-boulevard",
+   "type": "vs_you",
+   "targets": [
+    "Boulevard"
+   ]
+  },
+  {
+   "site": "Phorest",
+   "url": "https://www.phorest.com/gb/compare/phorest-vs-fresha/",
+   "path": "/gb/compare/phorest-vs-fresha",
+   "type": "vs_you",
+   "targets": [
+    "Fresha"
+   ]
+  },
+  {
+   "site": "Phorest",
+   "url": "https://www.phorest.com/gb/compare/phorest-vs-mindbody-booker/",
+   "path": "/gb/compare/phorest-vs-mindbody-booker",
+   "type": "vs_you",
+   "targets": [
+    "Mindbody",
+    "Booker"
+   ]
+  },
+  {
+   "site": "Phorest",
+   "url": "https://www.phorest.com/gb/compare/phorest-vs-timely/",
+   "path": "/gb/compare/phorest-vs-timely",
+   "type": "vs_you",
+   "targets": [
+    "Timely"
+   ]
+  },
+  {
+   "site": "Phorest",
+   "url": "https://www.phorest.com/gb/compare/phorest-vs-zenoti/",
+   "path": "/gb/compare/phorest-vs-zenoti",
+   "type": "vs_you",
+   "targets": [
+    "Zenoti"
+   ]
+  },
+  {
+   "site": "Phorest",
+   "url": "https://www.phorest.com/us/compare/phorest-vs-boulevard/",
+   "path": "/us/compare/phorest-vs-boulevard",
+   "type": "vs_you",
+   "targets": [
+    "Boulevard"
+   ]
+  },
+  {
+   "site": "Phorest",
+   "url": "https://www.phorest.com/us/compare/phorest-vs-fresha/",
+   "path": "/us/compare/phorest-vs-fresha",
+   "type": "vs_you",
+   "targets": [
+    "Fresha"
+   ]
+  },
+  {
+   "site": "Phorest",
+   "url": "https://www.phorest.com/us/compare/phorest-vs-mangomint/",
+   "path": "/us/compare/phorest-vs-mangomint",
+   "type": "vs_you",
+   "targets": [
+    "Mangomint"
+   ]
+  },
+  {
+   "site": "Phorest",
+   "url": "https://www.phorest.com/us/compare/phorest-vs-mindbody-booker/",
+   "path": "/us/compare/phorest-vs-mindbody-booker",
+   "type": "vs_you",
+   "targets": [
+    "Mindbody",
+    "Booker"
+   ]
+  },
+  {
+   "site": "Phorest",
+   "url": "https://www.phorest.com/us/compare/phorest-vs-salonbiz/",
+   "path": "/us/compare/phorest-vs-salonbiz",
+   "type": "vs_you",
+   "targets": [
+    "SalonBiz"
+   ]
+  },
+  {
+   "site": "Phorest",
+   "url": "https://www.phorest.com/us/compare/phorest-vs-timely/",
+   "path": "/us/compare/phorest-vs-timely",
+   "type": "vs_you",
+   "targets": [
+    "Timely"
+   ]
+  },
+  {
+   "site": "Phorest",
+   "url": "https://www.phorest.com/us/compare/phorest-vs-zenoti/",
+   "path": "/us/compare/phorest-vs-zenoti",
+   "type": "vs_you",
+   "targets": [
+    "Zenoti"
+   ]
+  }
+ ]
+}
