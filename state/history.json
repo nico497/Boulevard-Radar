@@ -2,7 +2,7 @@
  "weeks": [
   {
    "week": "2026-W43",
-   "date": "2026-10-19T03:02:34+00:00",
+   "date": "2026-10-19T13:25:03+00:00",
    "sites": {
     "Boulevard": {
      "new": 0,
@@ -35,8 +35,8 @@
      "pages": 839
     },
     "Phorest": {
-     "new": 29,
-     "updated": 4,
+     "new": 32,
+     "updated": 19,
      "removed": 0,
      "pages": 4003
     },
