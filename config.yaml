@@ -1,0 +1,52 @@
+# ------------------------------------------------------------------
+# Competitor Radar config
+# List your competitors (and optionally yourself). That's all most people need.
+# Test the sites any time with:  python radar.py --check
+# ------------------------------------------------------------------
+
+title: Competitor Radar
+
+# Used to tailor the analysis.
+niche: Client-experience and booking software for salons, spas, medspas, and barbershops
+audience: Boulevard's marketing team, winning multi-location salon and spa brands that are switching providers
+
+window_days: 30          # the dashboard compares the last 30 days with the 30 before
+first_run_days: 60       # on the first run, classify pages dated within this many days
+max_classify_per_run: 200   # spend cap: extra pages wait for the next run
+
+models:
+  classify: claude-haiku-4-5-20251001   # one cheap call per new page
+  analyse: claude-sonnet-5-5            # one call per run for the breakdown
+
+# Optional: your own site, shown as the first row so gaps are relative to you.
+you:
+  name: Boulevard
+  site: https://www.joinblvd.com
+
+# ------------------------------------------------------------------
+# Competitors. Each needs a name and a site. The radar finds the sitemap
+# (or feed) itself. If it can't, add one of these:
+#   sitemap: https://example.com/post-sitemap.xml
+#   feed:    https://example.com/blog/feed
+# Optional:
+#   include_pattern: /blog/     only count URLs matching this regex
+#   exclude_pattern: /docs/     ignore URLs matching this regex
+# ------------------------------------------------------------------
+competitors:
+  - name: Zenoti
+    site: https://www.zenoti.com
+
+  - name: Mindbody
+    site: https://www.mindbodyonline.com
+
+  - name: Vagaro
+    site: https://www.vagaro.com
+
+  - name: Mangomint
+    site: https://www.mangomint.com
+
+  - name: Phorest
+    site: https://www.phorest.com
+
+  - name: Fresha
+    site: https://www.fresha.com

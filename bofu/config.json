@@ -1,0 +1,125 @@
+{
+  "title": "Bottom-of-funnel content tracker",
+  "niche": "Client-experience and booking software for salons, spas, medspas, and barbershops",
+  "you": "Boulevard",
+  "competitors": [
+    "Zenoti",
+    "Mindbody",
+    "Vagaro",
+    "Mangomint",
+    "Phorest",
+    "Fresha"
+  ],
+  "vendors": {
+    "Zenoti": "zenoti",
+    "Mindbody": "mindbody",
+    "Vagaro": "vagaro",
+    "Mangomint": "mangomint",
+    "Phorest": "phorest",
+    "Fresha": "fresha",
+    "Boulevard": "boulevard|joinblvd",
+    "GlossGenius": "glossgenius",
+    "Square Appointments": "square appointments|square",
+    "Booker": "booker",
+    "Acuity Scheduling": "acuity",
+    "Weave": "weave",
+    "Treatwell": "treatwell",
+    "SalonBiz": "salonbiz|saloniris",
+    "Rosy": "rosy salon software|rosy",
+    "Goldie": "goldie",
+    "Timely": "timely",
+    "Schedulicity": "schedulicity",
+    "Booksy": "booksy",
+    "DaySmart": "daysmart"
+  },
+  "audiences": [
+    [
+      "Salons",
+      "salons?"
+    ],
+    [
+      "Spas",
+      "day spas?|\\bspas?\\b"
+    ],
+    [
+      "Medspas",
+      "med ?spas?|medical spa|aesthetic(?:s|ic)?"
+    ],
+    [
+      "Barbershops",
+      "barbershops?|barbers?"
+    ],
+    [
+      "Nail salons",
+      "nail salons?|nail techs?"
+    ],
+    [
+      "Massage",
+      "massage"
+    ],
+    [
+      "Lash and brow",
+      "lash|brow"
+    ],
+    [
+      "Waxing",
+      "wax(?:ing)?"
+    ],
+    [
+      "Hair stylists",
+      "hair stylists?|hairstylists?|hairdressers?"
+    ],
+    [
+      "Multi-location",
+      "multi.?location|multi.?unit"
+    ],
+    [
+      "Franchise",
+      "franchis"
+    ],
+    [
+      "Independent or solo",
+      "independent (?:stylist|provider|professional)|solo (?:stylist|provider)|booth rent|chair rent|suite rent"
+    ],
+    [
+      "Enterprise",
+      "enterprise"
+    ],
+    [
+      "Memberships",
+      "membership"
+    ],
+    [
+      "Online booking",
+      "online booking|self.?book"
+    ],
+    [
+      "Point of sale",
+      "point of sale|\\bpos\\b"
+    ],
+    [
+      "Payments",
+      "payments?|payroll"
+    ],
+    [
+      "Marketing and retention",
+      "marketing|retention|loyalty"
+    ],
+    [
+      "Client experience",
+      "client experience"
+    ],
+    [
+      "Staff and payroll management",
+      "staff management|payroll"
+    ],
+    [
+      "AI",
+      "\\bai\\b"
+    ],
+    [
+      "Fitness and wellness",
+      "fitness|wellness studio|yoga|pilates"
+    ]
+  ]
+}
