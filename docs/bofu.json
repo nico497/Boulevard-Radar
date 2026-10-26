@@ -3,7 +3,7 @@
   "title": "Bottom-of-funnel content tracker",
   "niche": "Client-experience and booking software for salons, spas, medspas, and barbershops",
   "you": "Boulevard",
-  "generated": "2026-10-19T13:33:46+00:00",
+  "generated": "2026-10-26T13:18:15+00:00",
   "state_updated": "2026-10-19T03:02:34+00:00",
   "repo": "nico497/Boulevard-Radar"
  },
@@ -40,8 +40,8 @@
  "sites": [
   {
    "name": "Boulevard",
-   "tracked": 573,
-   "considered": 573,
+   "tracked": 583,
+   "considered": 583,
    "own_pricing": "https://www.joinblvd.com/pricing",
    "hubs": [
     "https://www.joinblvd.com/customer-stories"
@@ -49,8 +49,8 @@
   },
   {
    "name": "Zenoti",
-   "tracked": 575,
-   "considered": 483,
+   "tracked": 597,
+   "considered": 505,
    "own_pricing": "https://www.zenoti.com/platform/dynamic-pricing",
    "hubs": [
     "https://www.zenoti.com/compare"
@@ -58,7 +58,7 @@
   },
   {
    "name": "Mindbody",
-   "tracked": 1019,
+   "tracked": 1032,
    "considered": 0,
    "own_pricing": null,
    "hubs": []
@@ -72,15 +72,15 @@
   },
   {
    "name": "Mangomint",
-   "tracked": 839,
-   "considered": 838,
+   "tracked": 847,
+   "considered": 846,
    "own_pricing": "https://www.mangomint.com/pricing/",
    "hubs": []
   },
   {
    "name": "Phorest",
-   "tracked": 4590,
-   "considered": 4003,
+   "tracked": 4593,
+   "considered": 4006,
    "own_pricing": "https://www.phorest.com/pricing/",
    "hubs": [
     "https://www.phorest.com/compare/",
@@ -93,8 +93,8 @@
   },
   {
    "name": "Fresha",
-   "tracked": 3,
-   "considered": 3,
+   "tracked": 4,
+   "considered": 4,
    "own_pricing": null,
    "hubs": []
   }
@@ -123,7 +123,7 @@
  ],
  "excluded": {
   "webinars, glossary, events and category pages": 93,
-  "templated pages": 1799
+  "templated pages": 1812
  },
  "pages": [
   {
@@ -319,6 +319,13 @@
   },
   {
    "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/cure-studios",
+   "path": "/customer-stories/cure-studios",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
    "url": "https://www.joinblvd.com/customer-stories/cutthroat-barbers",
    "path": "/customer-stories/cutthroat-barbers",
    "type": "case",
@@ -340,6 +347,13 @@
   },
   {
    "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/fellow-barber",
+   "path": "/customer-stories/fellow-barber",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
    "url": "https://www.joinblvd.com/customer-stories/freecoat-nails",
    "path": "/customer-stories/freecoat-nails",
    "type": "case",
@@ -356,6 +370,13 @@
    "site": "Boulevard",
    "url": "https://www.joinblvd.com/customer-stories/hello-sugar",
    "path": "/customer-stories/hello-sugar",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/heyday",
+   "path": "/customer-stories/heyday",
    "type": "case",
    "targets": []
   },
@@ -417,6 +438,13 @@
   },
   {
    "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/sauna-house",
+   "path": "/customer-stories/sauna-house",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
    "url": "https://www.joinblvd.com/customer-stories/saunders-and-james",
    "path": "/customer-stories/saunders-and-james",
    "type": "case",
@@ -466,6 +494,13 @@
   },
   {
    "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/suite-caroline",
+   "path": "/customer-stories/suite-caroline",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
    "url": "https://www.joinblvd.com/customer-stories/the-gleamery",
    "path": "/customer-stories/the-gleamery",
    "type": "case",
@@ -498,6 +533,15 @@
    "path": "/customer-stories/willow-and-birch",
    "type": "case",
    "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/compare/boulevard-vs-glossgenius",
+   "path": "/compare/boulevard-vs-glossgenius",
+   "type": "vs_you",
+   "targets": [
+    "GlossGenius"
+   ]
   },
   {
    "site": "Boulevard",
