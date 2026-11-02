@@ -95,6 +95,54 @@
      "pages": 4
     }
    }
+  },
+  {
+   "week": "2026-W45",
+   "date": "2026-11-02T16:03:15+00:00",
+   "sites": {
+    "Boulevard": {
+     "new": 0,
+     "updated": 11,
+     "removed": 23,
+     "pages": 563
+    },
+    "Zenoti": {
+     "new": 0,
+     "updated": 3,
+     "removed": 2,
+     "pages": 595
+    },
+    "Mindbody": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 0
+    },
+    "Vagaro": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 0
+    },
+    "Mangomint": {
+     "new": 20,
+     "updated": 4,
+     "removed": 0,
+     "pages": 866
+    },
+    "Phorest": {
+     "new": 24,
+     "updated": 17,
+     "removed": 0,
+     "pages": 4024
+    },
+    "Fresha": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 4
+    }
+   }
   }
  ]
 }
