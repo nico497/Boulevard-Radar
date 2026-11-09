@@ -3,7 +3,7 @@
   "title": "Bottom-of-funnel content tracker",
   "niche": "Client-experience and booking software for salons, spas, medspas, and barbershops",
   "you": "Boulevard",
-  "generated": "2026-11-02T16:15:15+00:00",
+  "generated": "2026-11-09T16:37:12+00:00",
   "state_updated": "2026-10-19T03:02:34+00:00",
   "repo": "nico497/Boulevard-Radar"
  },
@@ -40,8 +40,8 @@
  "sites": [
   {
    "name": "Boulevard",
-   "tracked": 586,
-   "considered": 586,
+   "tracked": 592,
+   "considered": 592,
    "own_pricing": "https://www.joinblvd.com/pricing",
    "hubs": [
     "https://www.joinblvd.com/customer-stories"
@@ -49,8 +49,8 @@
   },
   {
    "name": "Zenoti",
-   "tracked": 597,
-   "considered": 505,
+   "tracked": 601,
+   "considered": 508,
    "own_pricing": "https://www.zenoti.com/platform/dynamic-pricing",
    "hubs": [
     "https://www.zenoti.com/compare"
@@ -58,29 +58,29 @@
   },
   {
    "name": "Mindbody",
-   "tracked": 1034,
+   "tracked": 1035,
    "considered": 0,
    "own_pricing": null,
    "hubs": []
   },
   {
    "name": "Vagaro",
-   "tracked": 193,
+   "tracked": 195,
    "considered": 0,
    "own_pricing": null,
    "hubs": []
   },
   {
    "name": "Mangomint",
-   "tracked": 867,
-   "considered": 866,
+   "tracked": 870,
+   "considered": 869,
    "own_pricing": "https://www.mangomint.com/pricing/",
    "hubs": []
   },
   {
    "name": "Phorest",
-   "tracked": 4611,
-   "considered": 4024,
+   "tracked": 4655,
+   "considered": 4068,
    "own_pricing": "https://www.phorest.com/pricing/",
    "hubs": [
     "https://www.phorest.com/compare/",
@@ -122,8 +122,8 @@
   "DaySmart"
  ],
  "excluded": {
-  "webinars, glossary, events and category pages": 93,
-  "templated pages": 1814
+  "webinars, glossary, events and category pages": 94,
+  "templated pages": 1817
  },
  "pages": [
   {
@@ -361,6 +361,13 @@
   },
   {
    "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/great-many",
+   "path": "/customer-stories/great-many",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
    "url": "https://www.joinblvd.com/customer-stories/hairroin-salon",
    "path": "/customer-stories/hairroin-salon",
    "type": "case",
@@ -426,6 +433,13 @@
    "site": "Boulevard",
    "url": "https://www.joinblvd.com/customer-stories/rudys-barbershop",
    "path": "/customer-stories/rudys-barbershop",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Boulevard",
+   "url": "https://www.joinblvd.com/customer-stories/ruma-aesthetics",
+   "path": "/customer-stories/ruma-aesthetics",
    "type": "case",
    "targets": []
   },
@@ -1211,11 +1225,29 @@
   },
   {
    "site": "Zenoti",
+   "url": "https://www.zenoti.com/compare/zenoti-vs-mangomint",
+   "path": "/compare/zenoti-vs-mangomint",
+   "type": "vs_you",
+   "targets": [
+    "Mangomint"
+   ]
+  },
+  {
+   "site": "Zenoti",
    "url": "https://www.zenoti.com/compare/zenoti-vs-mindbody",
    "path": "/compare/zenoti-vs-mindbody",
    "type": "vs_you",
    "targets": [
     "Mindbody"
+   ]
+  },
+  {
+   "site": "Zenoti",
+   "url": "https://www.zenoti.com/compare/zenoti-vs-phorest-uk",
+   "path": "/compare/zenoti-vs-phorest-uk",
+   "type": "vs_you",
+   "targets": [
+    "Phorest"
    ]
   },
   {
