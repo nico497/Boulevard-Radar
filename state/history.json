@@ -146,19 +146,19 @@
   },
   {
    "week": "2026-W46",
-   "date": "2026-11-09T16:28:45+00:00",
+   "date": "2026-11-12T02:30:24+00:00",
    "sites": {
     "Boulevard": {
-     "new": 0,
-     "updated": 7,
-     "removed": 3,
-     "pages": 566
+     "new": 1,
+     "updated": 23,
+     "removed": 13,
+     "pages": 557
     },
     "Zenoti": {
-     "new": 4,
-     "updated": 11,
-     "removed": 0,
-     "pages": 599
+     "new": 8,
+     "updated": 12,
+     "removed": 1,
+     "pages": 602
     },
     "Mindbody": {
      "new": 0,
@@ -173,14 +173,14 @@
      "pages": 0
     },
     "Mangomint": {
-     "new": 4,
-     "updated": 8,
-     "removed": 0,
-     "pages": 869
+     "new": 6,
+     "updated": 10,
+     "removed": 1,
+     "pages": 870
     },
     "Phorest": {
-     "new": 16,
-     "updated": 55,
+     "new": 14,
+     "updated": 70,
      "removed": 0,
      "pages": 4068
     },
